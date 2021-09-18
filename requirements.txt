@@ -2,7 +2,6 @@ gensim==3.7.1
 jieba==0.39
 numpy
 pandas
-scikit-learn==0.19.1
 tflearn==0.3.2
 tqdm==4.31.1
 passlib==1.7.1
