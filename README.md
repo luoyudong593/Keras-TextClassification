@@ -13,6 +13,7 @@
 
 ```bash
 pip install Keras-TextClassification
+pip install git+ssh://git@github.com/luoyudong593/Keras-TextClassification.git
 ```
 
 ```python
